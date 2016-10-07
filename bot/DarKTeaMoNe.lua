@@ -291,13 +291,13 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {196560568},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Tele DarK Final Version😎
+    about_text = [[😎Tele Under Final Version😎
 
-#⃣Team Channel :
-✌️ @DarKTeaMoNe ✌️
+#⃣Team Sudo :
+✌️  ✌️  @mr_xface
 ]],
     help_text_realm = [[
 Realm Commands:
